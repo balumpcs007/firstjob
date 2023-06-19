@@ -15,3 +15,7 @@
 # division
 
 /X=1/2
+
+# percentage
+
+%=1%2
