@@ -11,3 +11,7 @@
 # multiplication
 
 *X=1*2
+
+# division
+
+/X=1/2
