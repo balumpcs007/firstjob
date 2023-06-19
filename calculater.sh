@@ -1,4 +1,6 @@
-# addition
+#!/bin/bash
 
-x=a+b
+# addition funtion
+
++x=1+2
 
