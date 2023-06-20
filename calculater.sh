@@ -11,3 +11,8 @@
 # multiplication
 
 *X=1*2
+
+# checking percentage
+#
+
+%X= 1%2
